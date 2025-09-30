@@ -28,3 +28,36 @@
 
 ## 聯絡我們
 若對本隱私權政策有任何疑問、建議或個資相關請求，請透過 flashliqu@gmail.com 與我們聯繫。
+
+Mindful Diary – Privacy Policy
+
+Last updated: 2025-09-30
+
+This policy explains how “Mindful Diary” (the “App”) collects, uses, and protects user data. Please read it carefully before using the App. If you do not agree with this policy, do not use the App.
+
+Data Collection
+	•	The App does not create accounts and does not require users to register or sign in.
+	•	Records such as good deeds, faults, and “Ten Virtues” check-ins are stored only on the user’s device in a local SQLite database and Expo Secure Store.
+	•	Items entered on the Settings page—such as Dharma name, reminder times, theme preferences, and lock settings—are also stored locally on the device.
+
+Data Use
+	•	The App does not collect, transmit, or share user data to any remote server or third-party service.
+	•	Biometric or passcode features are used solely to protect access to the App; related information never leaves the device.
+	•	If users choose to share daily quotes or statistics to other platforms, please refer to those platforms’ privacy policies.
+
+Third-Party Services
+	•	The App is built with Expo and React Native and may call system APIs provided by Apple or Google devices (e.g., notifications, biometric authentication). These APIs provide system-level services; the App does not transmit personal data beyond the device.
+	•	App distribution and updates via the App Store or TestFlight are handled by Apple and may be subject to Apple’s privacy terms.
+
+Data Security
+	•	We recommend enabling device lock features and setting a passcode or biometric protection within the App to enhance data security.
+	•	To delete personal data, you may remove the App via system settings or reset data within the App. Deleted data cannot be recovered.
+
+Changes to This Policy
+	•	This policy may be updated due to feature adjustments or legal changes. The latest version will be published at
+https://github.com/flashliqu/moral-tracker-mobile/blob/main/PRIVACY_POLICY.md with the updated date noted.
+	•	Continued use of the App constitutes your acceptance of the updated policy.
+
+Contact Us
+
+If you have questions, suggestions, or requests regarding this Privacy Policy or your personal data, please contact: flashliqu@gmail.com.
